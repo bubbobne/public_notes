@@ -1,0 +1,3 @@
+- [kriging](GEOframe kriging)
+-  [pitfals](GEOFrame pitfals)
+- [Network with python](Use NetworkX for GEOFrame topology) 

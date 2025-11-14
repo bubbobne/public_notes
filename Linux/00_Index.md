@@ -1,10 +1,6 @@
 # 🐧 Linux — Indice
 
-- [[Shell_Basics]]
+- [[Linux/EndeavourOS/00_Index|00_Index]]
 - [[Linux shortcut]]
-- [[Commands]]
-- [[Systemd]]
-- [[Networking]]
-- [[Filesystem]]
-- [[Security]]
-- [[Shortcuts]]
+- [[Linux count file]]
+- [[Linux 1 command x day]]
