@@ -1,6 +1,6 @@
 # 🐧 Linux — Indice
 
-- [[Linux/EndeavourOS/00_Index|00_Index]]
-- [[Linux shortcut]]
-- [[Linux count file]]
-- [[Linux 1 command x day]]
+- [EndeavourOS(Linux/EndeavourOS/)
+- [shortcut](Linux%20shortcut)
+- [Count](Linux%20count%20file)
+- [x day](Linux%201%20command%20x%20day)
