@@ -1,6 +1,7 @@
 # 🐧 Linux — Indice
 
-- [EndeavourOS(Linux/EndeavourOS/)
-- [shortcut](Linux%20shortcut)
-- [Count](Linux%20count%20file)
-- [x day](Linux%201%20command%20x%20day)
+
+- [EndeavourOS](EndeavourOS.md)
+- [Shortcut](Linux%20shortcut.md)
+- [Count files](Linux%20count%20file.md)
+- [1 command per day](Linux%201%20command%20x%20day.md)
