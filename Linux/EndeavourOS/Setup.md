@@ -148,13 +148,3 @@ alias vault-update='cd ~/Vaults/SystemDocs && git add . && git commit -m "sync" 
 | Slow boot | `systemd-analyze blame` |
 | Regenerate GRUB config | `sudo grub-mkconfig -o /boot/grub/grub.cfg` |
 | Service failed | `systemctl status <service>` / `journalctl -u <service>` |
-
----
-
-## 🧮 Personal Notes
-
-- This vault (`SystemDocs`) is **private** and synced with a private GitHub repository.  
-- Only public material is shared manually on my **blog**.  
-- Backup is handled via `git` and optional local `rsync` mirror.
-
----
